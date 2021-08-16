@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Chen | Intelligent Perception Lab</title>
+    <link>/author/yan-chen/</link>
+      <atom:link href="/author/yan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 USTC Intelligent Perception Lab </copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/yan-chen/avatar_hu77f7ac68ed70289374bcec12b2746196_111243_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yan Chen</title>
+      <link>/author/yan-chen/</link>
+    </image>
+    
+    <item>
+      <title>MTrack: Tracking Multiperson Moving Trajectories and Vital Signs With Radio Signals</title>
+      <link>/publication/dongheng-mtrack/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dongheng-mtrack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
