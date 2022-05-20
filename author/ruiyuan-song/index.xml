@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruiyuan Song | Intelligent Perception Lab</title>
+    <link>/author/ruiyuan-song/</link>
+      <atom:link href="/author/ruiyuan-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruiyuan Song</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/ruiyuan-song/avatar_hu6d2ebd5b3c0ee7821ce677f399362ee3_107894_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ruiyuan Song</title>
+      <link>/author/ruiyuan-song/</link>
+    </image>
+    
+  </channel>
+</rss>
