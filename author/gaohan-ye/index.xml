@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaohan Ye | Intelligent Perception Lab</title>
+    <link>/author/gaohan-ye/</link>
+      <atom:link href="/author/gaohan-ye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gaohan Ye</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/gaohan-ye/avatar_hu41783b650502a8ff01f2a4472bde1d07_18459_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gaohan Ye</title>
+      <link>/author/gaohan-ye/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binquan Wang | Intelligent Perception Lab</title>
+    <link>/author/binquan-wang/</link>
+      <atom:link href="/author/binquan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binquan Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/binquan-wang/avatar_hubd9065d9853fa3d153b8b18a31b88f82_410057_270x270_fill_lanczos_center_3.png</url>
+      <title>Binquan Wang</title>
+      <link>/author/binquan-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

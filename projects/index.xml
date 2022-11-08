@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Intelligent Perception Lab</title>
+    <link>/projects/</link>
+      <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright><lastBuildDate>Sat, 07 Aug 2021 19:30:35 +0800</lastBuildDate>
+    <image>
+      <url>/media/logo_hua1e91360984d470552124c70967b3097_101197_300x300_fit_lanczos_3.png</url>
+      <title>Projects</title>
+      <link>/projects/</link>
+    </image>
+    
+    <item>
+      <title>Human Activity Perception and Imaging Using Radio Signals</title>
+      <link>/projects/humanactivityperception/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/projects/humanactivityperception/</guid>
+      <description>&lt;p&gt;In recent years, building radio sensing systems to perceive and understand the activities of humans has drawn increasing attention, mainly due to the non-intrusive and privacy-preserving characteristics of radio signals. Various systems have been designed to track the human&amp;rsquo;s position, actions, and vital signs by analyzing the radio signals reflected off the human body. However, most existing works can only predict rough human information. In this project, we build a multimodal system to enable the fine-grained human activity perception and imaging using radio signals, which consists of three major components: data collection, RF signal processing, and deep learning models. The data collection component collects human activity images from optical cameras and corresponding radio signals from RF devices. The RF signal processing component transforms the radio signals to the signal amplitude heatmaps. The deep learning models can generate human pose keypoints, pose segmentation, or human activity images based on the radio signal heatmaps. Furthermore, to train and test our proposed system, we create a cross-modal dataset, i.e., RFVisionData.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RF-based Human Sensing</title>
+      <link>/projects/rf-basedhumansensing/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/projects/rf-basedhumansensing/</guid>
+      <description>&lt;p&gt;In-home human monitoring systems, which could continuously monitor user information such as location and vital sign, have been attractive to provide assistance for personal healthcare, i.e., to provide healthcare professionals with rich information to understand the health conditions of users. For instance, the location information is able to answer the question like “does the person spend too much time somewhere in home?” or “do the couple stay close with each other?” while the vital sign information can be utilized to detect unusual breath and heartbeat, which provides valuable information for medical diagnoses. In this project, we propose a human sensing system with radio signals, MTrack, for in-home healthcare, which is capable of tracking the trajectories of moving persons and vital signs of static persons under the multi-person scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radio Frequency Imaging</title>
+      <link>/projects/radio-frequency-imaging/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/projects/radio-frequency-imaging/</guid>
+      <description>&lt;p&gt;Radio frequency (RF) imaging technologies aiming to recover shapes of 3-Dimensional objects enable various applications such as smart home, security inspection, and autonomous vehicles. These technologies benefit from the nature of wireless signals, i.e., the wireless signals can work in all-weather and all-day conditions while preventing privacy leakage. However, the existing systems fail to provide fine-grained imaging results, e.g., the result is often composed of several blobs at different positions or the entire object is represented as a single point. In this project, we propose to perform imaging with a large 2D antenna array and wide-band signals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Health</title>
+      <link>/projects/digitalhealth/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/projects/digitalhealth/</guid>
+      <description>&lt;p&gt;Advances in machine learning and contactless sensors have given rise to digital health. We focus on healthcare in the radio world, leveraging the advances in wireless technology in all aspects of healthcare. 
+&lt;br&gt;
+Our recent research aims to develop contactless healthcare monitoring schemes based on commercial radio systems to achieve physiological information monitoring and health-critical human behaviors sensing under clinical and in-home environments. 
+&lt;br&gt;
+&lt;strong&gt;Physiological information monitoring:&lt;/strong&gt;  We not only precisely measure the respiration and heartbeat rate, but also look deeper into the human body, e.g., monitoring electrocardiogram and blood pressure contactlessly. The proposed hybrid pipeline of signal processing and deep learning framework first extracts human micro-activity measurements from RF signal and then predicts the ECG and blood pressure with an interpretable neural networks that incorporate domain knowledge of RF signal and physiological models.
+&lt;br&gt;
+&lt;strong&gt;Health-critical human behaviors sensing:&lt;/strong&gt; Beyond the physiological information, we also exploit RF signal to sense health-critical human behaviors such as fall. Our RF-based fall detection system utilizes spatio-temporal convolutional neural networks to aggregate information across space and time and extract the corresponding complex spatio-temporal patterns. We address the main challenge in practice fall detection, including dealing with complex falls and fast non-fall movements, generalization to new environments and detecting falls in the presence of other motion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless Sensing with Reconfigurable Intelligent Surface</title>
+      <link>/projects/wireless-sensing-with-reconfigurable-intelligent-surface/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/projects/wireless-sensing-with-reconfigurable-intelligent-surface/</guid>
+      <description>&lt;p&gt;Indoor positioning is of great significance for common applications, such as elderly health, intrusion detection. However, insufficient distance resolution caused by the narrow-band characterization of WiFi signal makes it difficult to achieve accurate positioning. The emergence of Reconfigurable Intelligent Surface (RIS) makes it possible to solve this problem. The RIS can be regarded as a phase shifter, and focus the incident waves on certain location. We currently use RIS to improve the accuracy of positioning with WiFi signals and solve the near-far effect in multi-person scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fashion Recommendation and Synthesis</title>
+      <link>/projects/fashion-recommendation-and-synthesis/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/projects/fashion-recommendation-and-synthesis/</guid>
+      <description>&lt;p&gt;Fashion plays an important role in everyone’s daily life. In this project, we focus on fashion outfit recommendation and synthesis tasks which have wide applications in fashion oriented social networks, online shopping and smart home. Outfit recommendation is the task of predicting whether a set of fashion items that constitute an outfit are well-matched and fashion synthesis is to generate new fashion items considering such compatibilities. We further study those problems under the consideration of personalization. In the collaboration with intelligent devices, the system can be deployed in smart home to improve the quality of people’s life. With the personalized fashion recommendation technique, we can help people make the most of their fashion items, improve their shopping experiences and recommend appropriate dress for important occasions. With the fashion synthesis technique, we can generate new compatible items for people, give insights and reduce anxiety for making choices for their next shopping.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

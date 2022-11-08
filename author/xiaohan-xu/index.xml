@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaohan Xu | Intelligent Perception Lab</title>
+    <link>/author/xiaohan-xu/</link>
+      <atom:link href="/author/xiaohan-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaohan Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/xiaohan-xu/avatar_hu8516f1fa902445282f10a1b617dc622d_78504_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xiaohan Xu</title>
+      <link>/author/xiaohan-xu/</link>
+    </image>
+    
+  </channel>
+</rss>

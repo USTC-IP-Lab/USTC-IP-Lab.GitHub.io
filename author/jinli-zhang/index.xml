@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinli Zhang | Intelligent Perception Lab</title>
+    <link>/author/jinli-zhang/</link>
+      <atom:link href="/author/jinli-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinli Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/jinli-zhang/avatar_hu65766842be7c5d648ecb11a4b8a28caf_193532_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jinli Zhang</title>
+      <link>/author/jinli-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

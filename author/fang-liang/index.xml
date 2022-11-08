@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fang Liang | Intelligent Perception Lab</title>
+    <link>/author/fang-liang/</link>
+      <atom:link href="/author/fang-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fang Liang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/fang-liang/avatar_hu0cfa5d4455045651eae38f903131c611_26245_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Fang Liang</title>
+      <link>/author/fang-liang/</link>
+    </image>
+    
+  </channel>
+</rss>

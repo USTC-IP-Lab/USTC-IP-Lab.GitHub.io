@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guixin Xu | Intelligent Perception Lab</title>
+    <link>/author/guixin-xu/</link>
+      <atom:link href="/author/guixin-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guixin Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/guixin-xu/avatar_hu34f1907bdbbf004a729f1dfbbf3bb119_151281_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Guixin Xu</title>
+      <link>/author/guixin-xu/</link>
+    </image>
+    
+  </channel>
+</rss>

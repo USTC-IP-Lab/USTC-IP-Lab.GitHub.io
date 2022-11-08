@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zixin Shang | Intelligent Perception Lab</title>
+    <link>/author/zixin-shang/</link>
+      <atom:link href="/author/zixin-shang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zixin Shang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/zixin-shang/avatar_hu8231e93a855635ec46c5824be8aa99c6_422157_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zixin Shang</title>
+      <link>/author/zixin-shang/</link>
+    </image>
+    
+  </channel>
+</rss>

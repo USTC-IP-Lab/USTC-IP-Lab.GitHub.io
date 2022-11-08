@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying He | Intelligent Perception Lab</title>
+    <link>/author/ying-he/</link>
+      <atom:link href="/author/ying-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/ying-he/avatar_hu21efe19d12d019808a43a02792cffd4c_97348_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ying He</title>
+      <link>/author/ying-he/</link>
+    </image>
+    
+  </channel>
+</rss>

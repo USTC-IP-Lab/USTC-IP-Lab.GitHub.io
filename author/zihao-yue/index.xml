@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zihao Yue | Intelligent Perception Lab</title>
+    <link>/author/zihao-yue/</link>
+      <atom:link href="/author/zihao-yue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zihao Yue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/zihao-yue/avatar_hu1775e8ab25a48ef8d76dbd79829ee7a5_493992_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zihao Yue</title>
+      <link>/author/zihao-yue/</link>
+    </image>
+    
+  </channel>
+</rss>

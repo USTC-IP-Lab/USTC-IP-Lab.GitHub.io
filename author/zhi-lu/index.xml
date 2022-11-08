@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Lu | Intelligent Perception Lab</title>
+    <link>/author/zhi-lu/</link>
+      <atom:link href="/author/zhi-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi Lu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/zhi-lu/avatar_hu6c4cd66a3eb94e19666524b920ea5100_277884_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhi Lu</title>
+      <link>/author/zhi-lu/</link>
+    </image>
+    
+  </channel>
+</rss>
