@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>imaging | Intelligent Perception Lab</title>
+    <link>/tag/imaging/</link>
+      <atom:link href="/tag/imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 USTC Intelligent Perception Lab </copyright><lastBuildDate>Sat, 07 Aug 2021 19:45:56 +0800</lastBuildDate>
+    <image>
+      <url>/media/logo_hua1e91360984d470552124c70967b3097_101197_300x300_fit_lanczos_3.png</url>
+      <title>imaging</title>
+      <link>/tag/imaging/</link>
+    </image>
+    
+    <item>
+      <title>Human Activity Perception and Imaging Using Radio Signals</title>
+      <link>/project/rfperception/</link>
+      <pubDate>Sat, 07 Aug 2021 19:45:56 +0800</pubDate>
+      <guid>/project/rfperception/</guid>
+      <description>&lt;p&gt;In recent years, building radio sensing systems to perceive and understand the activities of humans has drawn increasing attention, mainly due to the non-intrusive and privacy-preserving characteristics of radio signals. Various systems have been designed to track the human&amp;rsquo;s position, actions, and vital signs by analyzing the radio signals reflected off the human body. However, most existing works can only predict rough human information. In this project, we build a multimodal system to enable the fine-grained human activity perception and imaging using radio signals, which consists of three major components: data collection, RF signal processing, and deep learning models. The data collection component collects human activity images from optical cameras and corresponding radio signals from RF devices. The RF signal processing component transforms the radio signals to the signal amplitude heatmaps. The deep learning models can generate human pose keypoints, pose segmentation, or human activity images based on the radio signal heatmaps. Furthermore, to train and test our proposed system, we make a cross-modal dataset, i.e., RFVisionData.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

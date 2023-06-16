@@ -30,8 +30,6 @@
   </url><url>
     <loc>/author/cong-yu/</loc>
   </url><url>
-    <loc>/author/zihao-yue/</loc>
-  </url><url>
     <loc>/author/shuai-yang/</loc>
   </url><url>
     <loc>/author/jinbo-chen/</loc>
@@ -127,21 +125,60 @@
     <loc>/author/pengcheng-huang/</loc>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/compute-vision/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/cong-yu/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/fashion-recommendation/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/fashion/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/zhi-lu/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/dongheng-zhang/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
+  </url><url>
+    <loc>/project/rfperception/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
+  </url><url>
+    <loc>/tag/imaging/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
+  </url><url>
+    <loc>/tag/object-track/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
+  </url><url>
+    <loc>/tag/perception/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
+  </url><url>
+    <loc>/tag/pose/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
+  </url><url>
+    <loc>/project/test/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
+  </url><url>
+    <loc>/author/zhi-wu/</loc>
+    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
   </url><url>
     <loc>/author/chunyang-xie/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
-  </url><url>
-    <loc>/tag/pose/</loc>
-    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
-  </url><url>
     <loc>/projects/</loc>
-    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
     <loc>/admin/</loc>
@@ -151,6 +188,8 @@
     <loc>/all-publications/allpub/</loc>
   </url><url>
     <loc>/allpubs/</loc>
+  </url><url>
+    <loc>/author/</loc>
   </url><url>
     <loc>/author/</loc>
   </url><url>
