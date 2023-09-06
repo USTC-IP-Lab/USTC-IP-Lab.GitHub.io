@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenzhen Cao | Intelligent Perception Lab</title>
+    <link>/author/zhenzhen-cao/</link>
+      <atom:link href="/author/zhenzhen-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenzhen Cao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/zhenzhen-cao/avatar_hu7e3664372b78e39a92af57de56bde908_1372597_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhenzhen Cao</title>
+      <link>/author/zhenzhen-cao/</link>
+    </image>
+    
+  </channel>
+</rss>

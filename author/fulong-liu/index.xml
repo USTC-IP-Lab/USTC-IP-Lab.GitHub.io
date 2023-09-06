@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fulong Liu | Intelligent Perception Lab</title>
+    <link>/author/fulong-liu/</link>
+      <atom:link href="/author/fulong-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fulong Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/fulong-liu/avatar_hu51d376b1c59a1be0b773b57feb2eb6d4_22024_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Fulong Liu</title>
+      <link>/author/fulong-liu/</link>
+    </image>
+    
+  </channel>
+</rss>

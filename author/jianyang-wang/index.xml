@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianyang Wang | Intelligent Perception Lab</title>
+    <link>/author/jianyang-wang/</link>
+      <atom:link href="/author/jianyang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianyang Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/jianyang-wang/avatar_hufc4a9bc5ec9907cc46511aaa083ea8b4_123875_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jianyang Wang</title>
+      <link>/author/jianyang-wang/</link>
+    </image>
+    
+  </channel>
+</rss>
