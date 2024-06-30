@@ -5,12 +5,21 @@
     <link>/author/zhi-lu/</link>
       <atom:link href="/author/zhi-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhi Lu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 USTC Intelligent Perception Lab </copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/zhi-lu/avatar_hu6c4cd66a3eb94e19666524b920ea5100_277884_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/media/logo_hua1e91360984d470552124c70967b3097_101197_300x300_fit_lanczos_3.png</url>
       <title>Zhi Lu</title>
       <link>/author/zhi-lu/</link>
     </image>
+    
+    <item>
+      <title>Fashion Recommendation and Synthesis</title>
+      <link>/project/fashion/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/project/fashion/</guid>
+      <description>&lt;p&gt;Fashion plays an important role in everyone&amp;rsquo;s daily life. In this project, we focus on fashion outfit recommendation and synthesis tasks which have wide applications in fashion oriented social networks, online shopping and smart home. Outfit recommendation is the task of predicting whether a set of fashion items that constitute an outfit are well-matched and fashion synthesis is to generate new fashion items considering such compatibilities. We further study those problems under the consideration of personalization. In the collaboration with intelligent devices, the system can be deployed in smart home to improve the quality of people&amp;rsquo;s life. With the personalized fashion recommendation technique, we can help people make the most of their fashion items, improve their shopping experiences and recommend appropriate dress for important occasions. With the fashion synthesis technique, we can generate new compatible items for people, give insights and reduce anxiety for making choices for their next shopping.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
