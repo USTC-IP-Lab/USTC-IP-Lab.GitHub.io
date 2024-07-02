@@ -5,21 +5,12 @@
     <link>/author/dongheng-zhang/</link>
       <atom:link href="/author/dongheng-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongheng Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright><lastBuildDate>Sat, 07 Aug 2021 19:45:56 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright>
     <image>
-      <url>/media/logo_hua1e91360984d470552124c70967b3097_101197_300x300_fit_lanczos_3.png</url>
+      <url>/author/dongheng-zhang/avatar_hue70167b8aaf56e0966ff3e25d321b857_106137_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dongheng Zhang</title>
       <link>/author/dongheng-zhang/</link>
     </image>
-    
-    <item>
-      <title>Test</title>
-      <link>/project/test/</link>
-      <pubDate>Sat, 07 Aug 2021 19:45:56 +0800</pubDate>
-      <guid>/project/test/</guid>
-      <description>&lt;p&gt;We propose a human sensing system with radio signals, MTrack, for in-home healthcare, which is capable of tracking the trajectories of moving persons and vital signs of static persons under the multi-person scenarios. To achieve this, we implement a multi-antenna wideband system that can provide high-resolution angle of arrival (AoA) and time of flight (ToF). A 2D beamformer is utilized to transform the raw radio signals into the AoA-ToF domain. To track the trajectories of moving persons, we leverage the movement of persons to cancel static multipaths and propose a path selection algorithm to estimate the locations of human and suppress the interferences from dynamic multipaths. To track the vital signs of static persons, we utilize the breath of static persons to eliminate static multipaths and propose a correlation-based algorithm to eliminate dynamic multipaths. Extensive experiments show that the proposed MTrack system is capable of tracking multiple moving persons with sub-decimeter level accuracy, and can estimate the breath and heartbeat rate of static persons with median accuracy of 99.8% and 98.46%, respectively.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
