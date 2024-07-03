@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Lu | Intelligent Perception Lab</title>
+    <link>/author/yi-lu/</link>
+      <atom:link href="/author/yi-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Lu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/author/yi-lu/avatar_huda43c63a7011c4779e08b028d1e75264_17576_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yi Lu</title>
+      <link>/author/yi-lu/</link>
+    </image>
+    
+  </channel>
+</rss>
