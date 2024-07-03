@@ -5,30 +5,12 @@
     <link>/author/cong-yu/</link>
       <atom:link href="/author/cong-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Cong Yu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright>
     <image>
-      <url>/media/logo_hua1e91360984d470552124c70967b3097_101197_300x300_fit_lanczos_3.png</url>
+      <url>/author/cong-yu/avatar_hu999871610f9eaf65ed60cee32054b385_871698_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cong Yu</title>
       <link>/author/cong-yu/</link>
     </image>
-    
-    <item>
-      <title>Fashion Recommendation and Synthesis</title>
-      <link>/project/fashion/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/project/fashion/</guid>
-      <description>&lt;p&gt;Fashion plays an important role in everyone&amp;rsquo;s daily life. In this project, we focus on fashion outfit recommendation and synthesis tasks which have wide applications in fashion oriented social networks, online shopping and smart home. Outfit recommendation is the task of predicting whether a set of fashion items that constitute an outfit are well-matched and fashion synthesis is to generate new fashion items considering such compatibilities. We further study those problems under the consideration of personalization. In the collaboration with intelligent devices, the system can be deployed in smart home to improve the quality of people&amp;rsquo;s life. With the personalized fashion recommendation technique, we can help people make the most of their fashion items, improve their shopping experiences and recommend appropriate dress for important occasions. With the fashion synthesis technique, we can generate new compatible items for people, give insights and reduce anxiety for making choices for their next shopping.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Human Activity Perception and Imaging Using Radio Signals</title>
-      <link>/project/rfperception/</link>
-      <pubDate>Sat, 07 Aug 2021 19:45:56 +0800</pubDate>
-      <guid>/project/rfperception/</guid>
-      <description>&lt;p&gt;In recent years, building radio sensing systems to perceive and understand the activities of humans has drawn increasing attention, mainly due to the non-intrusive and privacy-preserving characteristics of radio signals. Various systems have been designed to track the human&amp;rsquo;s position, actions, and vital signs by analyzing the radio signals reflected off the human body. However, most existing works can only predict rough human information. In this project, we build a multimodal system to enable the fine-grained human activity perception and imaging using radio signals, which consists of three major components: data collection, RF signal processing, and deep learning models. The data collection component collects human activity images from optical cameras and corresponding radio signals from RF devices. The RF signal processing component transforms the radio signals to the signal amplitude heatmaps. The deep learning models can generate human pose keypoints, pose segmentation, or human activity images based on the radio signal heatmaps. Furthermore, to train and test our proposed system, we make a cross-modal dataset, i.e., RFVisionData.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
