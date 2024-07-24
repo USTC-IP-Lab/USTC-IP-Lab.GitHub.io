@@ -65,15 +65,6 @@ Our recent research aims to develop contactless healthcare monitoring schemes ba
     
     <item>
       <title>Fashion Recommendation and Synthesis</title>
-      <link>/projects/fashion-recommendation-and-synthesis/</link>
-      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
-      <guid>/projects/fashion-recommendation-and-synthesis/</guid>
-      <description>&lt;p&gt;Fashion plays an important role in everyone’s daily life. In this project, we focus on fashion outfit recommendation and synthesis tasks which have wide applications in fashion oriented social networks, online shopping and smart home. Outfit recommendation is the task of predicting whether a set of fashion items that constitute an outfit are well-matched and fashion synthesis is to generate new fashion items considering such compatibilities. We further study those problems under the consideration of personalization. In the collaboration with intelligent devices, the system can be deployed in smart home to improve the quality of people’s life. With the personalized fashion recommendation technique, we can help people make the most of their fashion items, improve their shopping experiences and recommend appropriate dress for important occasions. With the fashion synthesis technique, we can generate new compatible items for people, give insights and reduce anxiety for making choices for their next shopping.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fashion Recommendation and Synthesis</title>
       <link>/project/fashion/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/project/fashion/</guid>
