@@ -13,11 +13,33 @@
     </image>
     
     <item>
+      <title>HIBER</title>
+      <link>/datasets/hiber/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/hiber/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/Intelligent-Perception-Lab/HIBER?tab=readme-ov-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HIBER (Human Indoor Behavior Exclusive RF dataset)&lt;/a&gt; is an open-source mmWave human behavior recognition dataset collected from multiple domains(i.e., various environments, users, occlusions，and actions). It can be used to study human position tracking, human behavior recognition, human pose estimation, and human silhouette generation tasks. The total size of the processed dataset is 400GB, including RF heatmaps, RGB images, 2D/3D human skeletons, bounding boxes, and human silhouette ground truth. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Human Activity Perception and Imaging Using Radio Signals</title>
       <link>/projects/humanactivityperception/</link>
       <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
       <guid>/projects/humanactivityperception/</guid>
-      <description>&lt;p&gt;In recent years, building radio sensing systems to perceive and understand the activities of humans has drawn increasing attention, mainly due to the non-intrusive and privacy-preserving characteristics of radio signals. Various systems have been designed to track the human&amp;rsquo;s position, actions, and vital signs by analyzing the radio signals reflected off the human body. However, most existing works can only predict rough human information. In this project, we build a multimodal system to enable the fine-grained human activity perception and imaging using radio signals, which consists of three major components: data collection, RF signal processing, and deep learning models. The data collection component collects human activity images from optical cameras and corresponding radio signals from RF devices. The RF signal processing component transforms the radio signals to the signal amplitude heatmaps. The deep learning models can generate human pose keypoints, pose segmentation, or human activity images based on the radio signal heatmaps. Furthermore, to train and test our proposed system, we create a cross-modal dataset, i.e., RFVisionData.&lt;/p&gt;
+      <description>&lt;p&gt;In recent years, building radio sensing systems to perceive and understand the activities of humans has drawn increasing attention, mainly due to the non-intrusive and privacy-preserving characteristics of radio signals. Various systems have been designed to track the human&amp;rsquo;s position, actions, and vital signs by analyzing the radio signals reflected off the human body. However, most existing works can only predict rough human information. In this project, we build a multimodal system to enable the fine-grained human activity perception and imaging using radio signals, which consists of three major components: data collection, RF signal processing, and deep learning models. The data collection component collects human activity images from optical cameras and corresponding radio signals from RF devices. The RF signal processing component transforms the radio signals to the signal amplitude heatmaps. The deep learning models can generate human pose keypoints, pose segmentation, or human activity images based on the radio signal heatmaps.&lt;/p&gt;
+&lt;!-- &lt;br&gt;
+**Related dataset:** 
+&lt;br&gt;
+[HIBER](https://github.com/Intelligent-Perception-Lab/HIBER): HIBER(Human Indoor Behavior Exclusive RF dataset) is an open-source mmWave human behavior recognition dataset collected from multiple domains(i.e., various environments, users, occlusions，and actions). The total size of the processed dataset is 400GB, including RF heatmaps, RGB images, 2D/3D human skeletons, bounding boxes，and human silhouette ground truth. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>H-WILD</title>
+      <link>/datasets/h-wild/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/h-wild/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H-WILD&lt;/a&gt; is a human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms. We collect datasets in four typical indoor scenarios: conference, laboratory, office, and lounge. During data collection, volunteers are instructed to walk freely around the room while holding the transmitter in their hands. They can walk slowly, walk quickly, or stop, just as they normally would do during their daily activities. And we use an Ultra-Wideband (UWB) based localization system with an accuracy of ten of centimeters to collect ground truth location data. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
 </description>
     </item>
     
@@ -31,11 +53,33 @@
     </item>
     
     <item>
+      <title>MCD-Gesture</title>
+      <link>/datasets/mcd/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/mcd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/leeyadong/cross_domain_gesture_dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCD-Gesture&lt;/a&gt; is a cross-domain gesture dataset consisting of 24050 instances from 25 users, 6 environments, and 5 locations. MCD-Gesture is collected from various domains (i.e. environments, users, and locations), and it can be used to develop mmWave gesture recognition systems and domain-independent machine learning algorithms. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RadarEyes</title>
+      <link>/datasets/radareyes/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/radareyes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/ruixv/RadarEyes?tab=readme-ov-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RadarEyes&lt;/a&gt; is a point cloud dataset consisting of aligned horizontally placed mmWave radar, vertically placed mmWave radar, LiDAR, and tracking cameras, capturing 120,000 frames of incoherent mmWave radar and 1,200,000 frames of coherent mmWave radar, along with corresponding poses and LiDAR pointcloud. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Radio Frequency Imaging</title>
       <link>/projects/radio-frequency-imaging/</link>
       <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
       <guid>/projects/radio-frequency-imaging/</guid>
       <description>&lt;p&gt;Radio frequency (RF) imaging technologies aiming to recover shapes of 3-Dimensional objects enable various applications such as smart home, security inspection, and autonomous vehicles. These technologies benefit from the nature of wireless signals, i.e., the wireless signals can work in all-weather and all-day conditions while preventing privacy leakage. However, the existing systems fail to provide fine-grained imaging results, e.g., the result is often composed of several blobs at different positions or the entire object is represented as a single point. In this project, we propose to perform imaging with a large 2D antenna array and wide-band signals.&lt;/p&gt;
+&lt;!-- &lt;br&gt;
+**Related dataset:**
+&lt;br&gt;
+[RadarEyes](https://github.com/ruixv/RadarEyes): RadarEyes is a mmWave Pointcloud Dataset. It consists of 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios. --&gt;
 </description>
     </item>
     

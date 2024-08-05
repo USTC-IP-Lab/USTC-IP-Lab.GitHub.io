@@ -2,43 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/author/yan-chen/</loc>
+    <loc>/authors/yanchen/</loc>
   </url><url>
-    <loc>/author/ying-he/</loc>
+    <loc>/authors/yinghe/</loc>
   </url><url>
-    <loc>/author/chunyang-xie/</loc>
+    <loc>/authors/chunyangxie/</loc>
   </url><url>
-    <loc>/author/yang-hu/</loc>
+    <loc>/authors/yanghu/</loc>
   </url><url>
-    <loc>/author/qibin-sun/</loc>
+    <loc>/authors/qibinsun/</loc>
   </url><url>
-    <loc>/author/zhi-wu/</loc>
+    <loc>/authors/virgil/</loc>
   </url><url>
-    <loc>/author/dongheng-zhang/</loc>
+    <loc>/authors/donghengzhang/</loc>
   </url><url>
-    <loc>/author/zhi-lu/</loc>
+    <loc>/authors/zhilu/</loc>
+  </url><url>
+    <loc>/datasets/hiber/</loc>
+    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
     <loc>/projects/humanactivityperception/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
-    <loc>/author/binquan-wang/</loc>
+    <loc>/authors/binquanwang/</loc>
+  </url><url>
+    <loc>/datasets/h-wild/</loc>
+    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
     <loc>/projects/rf-basedhumansensing/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
-    <loc>/author/bin-bin-zhang/</loc>
+    <loc>/authors/binbinzhang/</loc>
   </url><url>
-    <loc>/author/cong-yu/</loc>
+    <loc>/authors/congyu/</loc>
   </url><url>
-    <loc>/author/shuai-yang/</loc>
+    <loc>/authors/shuaiyang/</loc>
   </url><url>
-    <loc>/author/jinbo-chen/</loc>
+    <loc>/authors/jinbochen/</loc>
   </url><url>
-    <loc>/author/xiaohan-xu/</loc>
+    <loc>/authors/xiaohanxu/</loc>
   </url><url>
-    <loc>/author/jinduo-wang/</loc>
+    <loc>/datasets/mcd/</loc>
+    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
-    <loc>/author/ganlin-zhang/</loc>
+    <loc>/authors/jinduowang/</loc>
+  </url><url>
+    <loc>/authors/ganlinzhang/</loc>
+  </url><url>
+    <loc>/datasets/radareyes/</loc>
+    <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
     <loc>/projects/radio-frequency-imaging/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
@@ -46,138 +58,126 @@
     <loc>/projects/digitalhealth/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
-    <loc>/author/ruiyuan-song/</loc>
+    <loc>/authors/ruiyuansong/</loc>
   </url><url>
-    <loc>/author/wenxuanli/</loc>
+    <loc>/authors/wenxuanli/</loc>
   </url><url>
-    <loc>/author/renjie-wen/</loc>
+    <loc>/authors/jierenwen/</loc>
   </url><url>
     <loc>/projects/wireless-sensing-with-reconfigurable-intelligent-surface/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
-    <loc>/author/fang-zhou/</loc>
+    <loc>/authors/fangzhou/</loc>
   </url><url>
-    <loc>/author/you-ran/</loc>
+    <loc>/authors/york/</loc>
   </url><url>
-    <loc>/author/pengfei-yin/</loc>
+    <loc>/authors/pengfeiyin/</loc>
   </url><url>
-    <loc>/author/haoyu-wang/</loc>
+    <loc>/authors/haoyuwang/</loc>
   </url><url>
-    <loc>/author/shijie-han/</loc>
+    <loc>/authors/shijiehan/</loc>
   </url><url>
-    <loc>/author/yun-wu/</loc>
+    <loc>/authors/yunwu/</loc>
   </url><url>
-    <loc>/author/guanzhong-wang/</loc>
+    <loc>/authors/guanzhongwang/</loc>
   </url><url>
-    <loc>/author/jinli-zhang/</loc>
+    <loc>/authors/jinlizhang/</loc>
   </url><url>
-    <loc>/author/qi-chen/</loc>
+    <loc>/authors/qichen/</loc>
   </url><url>
-    <loc>/author/jiamu-li/</loc>
+    <loc>/authors/jiamuli/</loc>
   </url><url>
-    <loc>/author/rendao-wang/</loc>
+    <loc>/authors/rendaowang/</loc>
   </url><url>
-    <loc>/author/xuecheng-xie/</loc>
+    <loc>/authors/xuechengxie/</loc>
   </url><url>
-    <loc>/author/tianyu-zhang/</loc>
+    <loc>/authors/tianyuzhang/</loc>
   </url><url>
-    <loc>/author/jian-xu/</loc>
+    <loc>/authors/jianxu/</loc>
   </url><url>
-    <loc>/author/yadong-li/</loc>
+    <loc>/authors/yadongli/</loc>
   </url><url>
-    <loc>/author/liquan-fang/</loc>
+    <loc>/authors/liquanfang/</loc>
   </url><url>
-    <loc>/author/jianyang-wang/</loc>
+    <loc>/authors/jianyangwang/</loc>
   </url><url>
-    <loc>/author/lingjie-shu/</loc>
+    <loc>/authors/lingjieshu/</loc>
   </url><url>
-    <loc>/author/ruixu-geng/</loc>
+    <loc>/authors/ruixugeng/</loc>
   </url><url>
-    <loc>/author/rui-zhang/</loc>
+    <loc>/authors/ruizhang/</loc>
   </url><url>
-    <loc>/author/zixin-shang/</loc>
+    <loc>/authors/zixinshang/</loc>
   </url><url>
-    <loc>/author/guixin-xu/</loc>
+    <loc>/authors/guixinxu/</loc>
   </url><url>
-    <loc>/author/hanqin-gong/</loc>
+    <loc>/authors/hanqingong/</loc>
   </url><url>
-    <loc>/author/jincheng-wu/</loc>
+    <loc>/authors/jinchengwu/</loc>
   </url><url>
-    <loc>/author/changwei-wu/</loc>
+    <loc>/authors/changweiwu/</loc>
   </url><url>
-    <loc>/author/fang-liang/</loc>
+    <loc>/authors/fangliang/</loc>
   </url><url>
-    <loc>/author/hong-wan/</loc>
+    <loc>/authors/hongwan/</loc>
   </url><url>
-    <loc>/author/ruoqing-pan/</loc>
+    <loc>/authors/ruoqingpan/</loc>
   </url><url>
-    <loc>/author/yuqin-yuan/</loc>
+    <loc>/authors/yuqinyuan/</loc>
   </url><url>
-    <loc>/author/gaohan-ye/</loc>
+    <loc>/authors/gaohanye/</loc>
   </url><url>
-    <loc>/author/yating-gao/</loc>
+    <loc>/authors/yatinggao/</loc>
   </url><url>
-    <loc>/author/fengquan-zhan/</loc>
+    <loc>/authors/fengquanzhan/</loc>
   </url><url>
-    <loc>/author/xu-wang/</loc>
+    <loc>/authors/xuwang/</loc>
   </url><url>
-    <loc>/author/jiarui-zhang/</loc>
+    <loc>/authors/jiaruizhang/</loc>
   </url><url>
-    <loc>/author/pengcheng-huang/</loc>
+    <loc>/authors/pengchenghuang/</loc>
   </url><url>
-    <loc>/author/xinxin-li/</loc>
+    <loc>/authors/xinxinli/</loc>
   </url><url>
-    <loc>/author/yi-lu/</loc>
+    <loc>/authors/yilu/</loc>
   </url><url>
-    <loc>/author/haoyu-zhang/</loc>
+    <loc>/authors/haoyuzhang/</loc>
   </url><url>
-    <loc>/author/zehan-guo/</loc>
+    <loc>/authors/zehanguo/</loc>
   </url><url>
-    <loc>/author/fulong-liu/</loc>
+    <loc>/authors/fulongliu/</loc>
   </url><url>
-    <loc>/author/yuntian-yan/</loc>
+    <loc>/authors/yuntianyan/</loc>
   </url><url>
-    <loc>/author/ziqian-zhang/</loc>
+    <loc>/authors/ziqianzhang/</loc>
   </url><url>
-    <loc>/author/xilong-yuan/</loc>
+    <loc>/authors/xilongyuan/</loc>
   </url><url>
-    <loc>/author/lingna-ding/</loc>
+    <loc>/authors/lingnading/</loc>
   </url><url>
-    <loc>/author/zhenzhen-cao/</loc>
+    <loc>/authors/zhenzhencao/</loc>
   </url><url>
-    <loc>/author/aoxiang-yue/</loc>
+    <loc>/authors/aoxiangyue/</loc>
   </url><url>
-    <loc>/author/xinmeng-cai/</loc>
+    <loc>/authors/xinmengcai/</loc>
   </url><url>
-    <loc>/author/yi-wang/</loc>
+    <loc>/authors/yiwang/</loc>
   </url><url>
-    <loc>/author/yuhong-sun/</loc>
+    <loc>/authors/yuhongsun/</loc>
   </url><url>
-    <loc>/author/qian-liang/</loc>
+    <loc>/authors/qianliang/</loc>
   </url><url>
-    <loc>/author/jinran-sun/</loc>
+    <loc>/authors/jinransun/</loc>
   </url><url>
-    <loc>/author/tianyang-dai/</loc>
+    <loc>/authors/tianyangdai/</loc>
   </url><url>
-    <loc>/author/jinzhong-deng/</loc>
+    <loc>/authors/jinzhongdeng/</loc>
   </url><url>
-    <loc>/author/jiawang-guan/</loc>
+    <loc>/authors/jiawangguan/</loc>
   </url><url>
-    <loc>/author/jie-deng/</loc>
+    <loc>/authors/jiedeng/</loc>
   </url><url>
-    <loc>/author/yixing-tan/</loc>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/compute-vision/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/cong-yu/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/fashion-recommendation/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+    <loc>/authors/yixingtan/</loc>
   </url><url>
     <loc>/project/fashion/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
@@ -188,37 +188,13 @@
     <loc>/project/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/zhi-lu/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/dongheng-zhang/</loc>
-    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
-  </url><url>
     <loc>/project/rfperception/</loc>
-    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
-  </url><url>
-    <loc>/tag/imaging/</loc>
-    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
-  </url><url>
-    <loc>/tag/object-track/</loc>
-    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
-  </url><url>
-    <loc>/tag/perception/</loc>
-    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
-  </url><url>
-    <loc>/tag/pose/</loc>
     <lastmod>2021-08-07T19:45:56+08:00</lastmod>
   </url><url>
     <loc>/project/test/</loc>
     <lastmod>2021-08-07T19:45:56+08:00</lastmod>
   </url><url>
-    <loc>/author/zhi-wu/</loc>
-    <lastmod>2021-08-07T19:45:56+08:00</lastmod>
-  </url><url>
-    <loc>/author/chunyang-xie/</loc>
+    <loc>/datasets/</loc>
     <lastmod>2021-08-07T19:30:35+08:00</lastmod>
   </url><url>
     <loc>/projects/</loc>
@@ -232,15 +208,17 @@
   </url><url>
     <loc>/allpubs/</loc>
   </url><url>
-    <loc>/author/</loc>
+    <loc>/authors/alumni/</loc>
   </url><url>
-    <loc>/author/</loc>
+    <loc>/authors/zihaoyue/</loc>
   </url><url>
     <loc>/people/</loc>
   </url><url>
+    <loc>/authors/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/authors/admin/</loc>
   </url><url>
     <loc>/publication_types/</loc>
   </url>

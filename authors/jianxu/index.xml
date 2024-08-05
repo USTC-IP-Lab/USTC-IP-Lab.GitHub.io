@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian Xu | Intelligent Perception Lab</title>
+    <link>/authors/jianxu/</link>
+      <atom:link href="/authors/jianxu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright>
+    <image>
+      <url>/media/logo_hua1e91360984d470552124c70967b3097_101197_300x300_fit_lanczos_3.png</url>
+      <title>Jian Xu</title>
+      <link>/authors/jianxu/</link>
+    </image>
+    
+  </channel>
+</rss>

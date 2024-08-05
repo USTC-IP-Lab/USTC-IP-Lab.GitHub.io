@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets | Intelligent Perception Lab</title>
+    <link>/datasets/</link>
+      <atom:link href="/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datasets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 USTC Intelligent Perception Lab </copyright><lastBuildDate>Sat, 07 Aug 2021 19:30:35 +0800</lastBuildDate>
+    <image>
+      <url>/media/logo_hua1e91360984d470552124c70967b3097_101197_300x300_fit_lanczos_3.png</url>
+      <title>Datasets</title>
+      <link>/datasets/</link>
+    </image>
+    
+    <item>
+      <title>HIBER</title>
+      <link>/datasets/hiber/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/hiber/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/Intelligent-Perception-Lab/HIBER?tab=readme-ov-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HIBER (Human Indoor Behavior Exclusive RF dataset)&lt;/a&gt; is an open-source mmWave human behavior recognition dataset collected from multiple domains(i.e., various environments, users, occlusions，and actions). It can be used to study human position tracking, human behavior recognition, human pose estimation, and human silhouette generation tasks. The total size of the processed dataset is 400GB, including RF heatmaps, RGB images, 2D/3D human skeletons, bounding boxes, and human silhouette ground truth. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>H-WILD</title>
+      <link>/datasets/h-wild/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/h-wild/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H-WILD&lt;/a&gt; is a human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms. We collect datasets in four typical indoor scenarios: conference, laboratory, office, and lounge. During data collection, volunteers are instructed to walk freely around the room while holding the transmitter in their hands. They can walk slowly, walk quickly, or stop, just as they normally would do during their daily activities. And we use an Ultra-Wideband (UWB) based localization system with an accuracy of ten of centimeters to collect ground truth location data. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MCD-Gesture</title>
+      <link>/datasets/mcd/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/mcd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/leeyadong/cross_domain_gesture_dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCD-Gesture&lt;/a&gt; is a cross-domain gesture dataset consisting of 24050 instances from 25 users, 6 environments, and 5 locations. MCD-Gesture is collected from various domains (i.e. environments, users, and locations), and it can be used to develop mmWave gesture recognition systems and domain-independent machine learning algorithms. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RadarEyes</title>
+      <link>/datasets/radareyes/</link>
+      <pubDate>Sat, 07 Aug 2021 19:30:35 +0800</pubDate>
+      <guid>/datasets/radareyes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/ruixv/RadarEyes?tab=readme-ov-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RadarEyes&lt;/a&gt; is a point cloud dataset consisting of aligned horizontally placed mmWave radar, vertically placed mmWave radar, LiDAR, and tracking cameras, capturing 120,000 frames of incoherent mmWave radar and 1,200,000 frames of coherent mmWave radar, along with corresponding poses and LiDAR pointcloud. Click on the link to learn more details and how to use the dataset!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
